@@ -29,7 +29,7 @@ Feel free to explore my repositories for more!
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahim-sadiqi&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
 ## Connect with Me
 
@@ -42,4 +42,4 @@ Let's connect! Feel free to reach out:
 
 Thank you for checking out my GitHub profile. I'm always open to collaboration and new opportunities. Let's build something amazing together!
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=YourGitHubUsername.YourGitHubUsername)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ibrahim-sadiqi.ibrahim-sadiqi)
